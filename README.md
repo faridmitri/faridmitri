@@ -1,9 +1,7 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAiMVuE7xw1__igE0FyFS46VpYez9M-zPjw&usqp=CAU)
 
 ### Hi there 👋
-
-- ## Career Summary
-Experienced software engineer, 10+ years of experience finding solutions and developing and builngs programs.
+I am an experienced software engineer, 10+ years of experience finding solutions and developing and builngs programs.
 Strong in design and integration problem-solving skills. <br/>
 Expert in AS400 and ETL. <br/>
 Skilled in android development
@@ -21,9 +19,10 @@ Skilled in android development
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridmitri@gmail.com)
     [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=96170941618)
     
+    <br/>
     
-    
-    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmitri)
+  
 
 
 
