@@ -4,7 +4,12 @@
 I am an experienced software engineer, 10+ years of experience finding solutions and developing and builngs programs.
 Strong in design and integration problem-solving skills. <br/>
 Expert in AS400 and ETL. <br/>
-Skilled in android development
+Skilled in android development <br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmitri)](https://github.com/faridmitri/github-readme-stats)
+
+<br/>
 
 - ## 🌱 I’m currently learning:
     - AI, Machine learning <br/>
@@ -20,10 +25,9 @@ Skilled in android development
     [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=96170941618)
     
     <br/>
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmitri)
-  
-
+- ## 😂 Here is a random joke that'll make you laugh!
+    ![Jokes Card](https://readme-jokes.vercel.app/api)
+     
 
 
 
