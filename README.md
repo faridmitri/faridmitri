@@ -7,7 +7,8 @@ Expert in AS400 and ETL. <br/>
 Skilled in android development <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmitri)](https://github.com/faridmitri/github-readme-stats)
+
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=faridmitri&theme=blue-green) &nbsp; &nbsp; ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmitri&theme=blue-green)
 
 <br/>
 
@@ -25,10 +26,9 @@ Skilled in android development <br/>
     [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=96170941618)
     
     <br/>
-- ## 😂 Here is a random joke that'll make you laugh!
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-     
 
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=faridmitri&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
