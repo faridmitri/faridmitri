@@ -13,10 +13,10 @@ Skilled in android development <br/>
 
 - ## 🌱 I’m currently learning:
     - AI, Machine learning <br/>
-    - Full stack web development 
+    
 
 - ## 🤔 I’m looking for help with:
-    - Find (ML,android,web-development) projects to work on for getting experience.
+    - Finding (ML and android) projects to work on for getting experience.
 
 - ## 📫 How to reach me:
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-mitri)
