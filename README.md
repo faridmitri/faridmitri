@@ -13,11 +13,11 @@ Skilled in android development <br/>
 <br/>
 
 - ## 🌱 I’m currently learning:
-    - AI, Machine learning <br/>
+    - Preparing for Associate Android Developer Certification Exam <br/>
     
 
 - ## 🤔 I’m looking for help with:
-    - Finding (ML or android) projects to work on.
+    - Finding android projects to work on.
 
 - ## 📫 How to reach me:
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-mitri)
@@ -27,6 +27,9 @@ Skilled in android development <br/>
     
     <br/>
 
+- ## ✨ My Google play account:
+     [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7549648089044505512&hl=en_US&gl=US)
+     
 
 
 
