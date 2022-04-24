@@ -14,6 +14,10 @@ Skilled in android development <br/>
 
 - ## 🌱 I’m currently learning:
     - Preparing for Associate Android Developer Certification Exam <br/>
+
+- ## 🔭 I’m currently working on:
+        -  Create an app with MVVM architecute and jetpack compose that contain ROOM database,Coroutines,RecyclerViewer,Retrofit,Api...
+           https://github.com/faridmitri/Android-Kotlin/tree/master/BodyTracker
     
 
 - ## 🤔 I’m looking for help with:
