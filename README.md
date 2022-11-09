@@ -16,13 +16,10 @@ Skilled in android development <br/>
     - Preparing for Associate Android Developer Certification Exam <br/>
 
 - ## 🔭 I’m currently working on:
-     -  Create an app with MVVM architecute and jetpack compose that contain ROOM database,Coroutines,RecyclerViewer,Retrofit,Api...
-     -  https://github.com/faridmitri/Android-Kotlin/tree/master/BodyTracker
-       
-    
+     
 
 - ## 🤔 I’m looking for help with:
-    - Finding android projects to work on.
+    - Finding android projects to work on and practice.
 
 - ## 📫 How to reach me:
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-mitri)
