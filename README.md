@@ -1,10 +1,12 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAiMVuE7xw1__igE0FyFS46VpYez9M-zPjw&usqp=CAU)
 
 ### Hi there 👋
-I am an experienced software engineer, 10+ years of experience finding solutions and developing and builngs programs.
-Strong in design and integration problem-solving skills. <br/>
-Expert in AS400 and ETL. <br/>
-Skilled in android development <br/>
+I'm Farid Mitri, a data engineer, solutions architect, and software engineer with a passion for building innovative solutions.</br>
+
+I'm AWS and Google Cloud certified and have experience building data-driven solutions to solve complex business problems.</br>
+
+I'm passionate about helping companies leverage their data and cloud technologies to drive growth and success.</br>
+With my expertise in data engineering, software engineering, and solutions architecture, I'm confident I can help your organization realize its full potential.</br>
 
 
 
@@ -13,13 +15,13 @@ Skilled in android development <br/>
 <br/>
 
 - ## 🌱 I’m currently learning:
-    - Preparing for Associate Android Developer Certification Exam <br/>
+    - Preparing for more cloud certifications <br/>
 
 - ## 🔭 I’m currently working on:
-     
+     Data engineering projects
 
 - ## 🤔 I’m looking for help with:
-    - Finding android projects to work on and practice.
+   Nothing special :P
 
 - ## 📫 How to reach me:
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-mitri)
